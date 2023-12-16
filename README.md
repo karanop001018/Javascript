@@ -1,7 +1,6 @@
 # Javascript ![1199124](https://github.com/karanop001018/Javascript/assets/96780293/64d06b86-59a9-4695-a982-c3c1b9c69215)
 <br>
 # 🚀 My JavaScript Learning Journey 🚀
-https://giphy.com/gifs/rawww-coventry-transparent-dC3EHvqJ61hNReoxMV
 Hello there! 👋 This repository documents my journey of learning JavaScript from beginner to advanced level. I am committed to learning and practicing JavaScript on a daily basis, and this repository is a testament to that commitment.
 
 ## 📚 About
